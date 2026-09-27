@@ -1,0 +1,6 @@
+{
+  "name": "PM Surya Ghar – Project Completion Certificate Generator",
+  "description": "Official A4 portrait Project Completion Certificate generator and record manager for M/S S.S Enterprise under PM Surya Ghar - Muft Bijuli Yojona.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
